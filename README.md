@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I’m Kaviya, a web developer and code enthusiast who loves turning ideas into reality. From crafting elegant algorithms to building interactive web applications, I thrive on solving complex problems and creating innovative solutions.<br><br>💡 Currently Exploring: JavaScript , Backend<br>🎯 Mission: To build too applications that make a difference and to continually learn and grow in the tech world.<br><br>🔭 Here's my [portfolio](https://strong-croissant-825c8c.netlify.app/)<br>📫 How to reach me :</p>
+<p align="left">I’m Kaviya, a web developer and code enthusiast who loves turning ideas into reality. From crafting elegant algorithms to building interactive web applications, I thrive on solving complex problems and creating innovative solutions.<br><br>💡 Currently Exploring: JavaScript , Backend<br>🎯 Mission: To build too applications that make a difference and to continually learn and grow in the tech world.<br><br>🔭 **Here's my [portfolio](https://strong-croissant-825c8c.netlify.app/)**
 
 ###
 
