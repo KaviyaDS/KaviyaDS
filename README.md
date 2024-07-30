@@ -6,9 +6,8 @@
 
 ###
 
-<p align="left">I’m Kaviya, a web developer and code enthusiast who loves turning ideas into reality. From crafting elegant algorithms to building interactive web applications, I thrive on solving complex problems and creating innovative solutions.<br><br>💡 Currently Exploring: JavaScript , Backend<br>🎯 Mission: To build too applications that make a difference and to continually learn and grow in the tech world.<br><br>🔭 **Here's my <a href="dskaviya03@gmail.com" target="_blank">portfolio</a>
-)
-###
+<p align="left">I’m Kaviya, a web developer and code enthusiast who loves turning ideas into reality. From crafting elegant algorithms to building interactive web applications, I thrive on solving complex problems and creating innovative solutions.<br><br>💡 Currently Exploring: JavaScript , Backend<br>🎯 Mission: To build too applications that make a difference and to continually learn and grow in the tech world.<br><br>🔭 Here's my <a href="dskaviya03@gmail.com" target="_blank">portfolio</a>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kaviya-dhamodharan-a38545277" target="_blank">
@@ -70,6 +69,9 @@
 
 ###
 
+<div align="center">
+  <a href="https://leetcode.com/u/dskaviya03/">![LeetCode Stats](https://leetcard.jacoblin.cool/dskaviya03?theme=light&font=Sansita%20Swashed)</a>
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KaviyaDS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaviyaDS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
